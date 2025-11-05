@@ -1,2 +1,3 @@
-- 🔭 I’m currently working at Manulife as a full stack developer. I'm work with Kubernetes, Docker, React, NodeJS, and ExpressJS.
-- 💬 Ask me about JavaScript.
+- 🔭 I’m currently working at Manulife as a full stack developer.
+- I'm work with Kubernetes, Docker, React, NodeJS, and ExpressJS.
+- 💬 Ask me about software development and muay thai.
