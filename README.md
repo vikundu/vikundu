@@ -1,3 +1,2 @@
-- 🔭 I’m currently working at Urbancoolab Inc as a full stack JavaScript Developer. Currently I'm mainly working with React, NodeJS, and ExpressJS.
-- 🌱 I’m currently learning GraphQL and TypeScript.
+- 🔭 I’m currently working at Manulife as a full stack developer. I'm work with Kubernetes, Docker, React, NodeJS, and ExpressJS.
 - 💬 Ask me about JavaScript.
